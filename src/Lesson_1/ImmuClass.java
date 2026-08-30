@@ -10,4 +10,12 @@ public final class ImmuClass {
 	        this.name = name;
 	        this.birthDate = birthDate;
 	    }
+	 
+	 public String getName() {
+	        return name;
+	    }
+	 
+	 public Date getBirthDate() {
+	            return birthDate;
+	    }
 }

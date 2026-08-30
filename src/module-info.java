@@ -5,5 +5,4 @@
  * 
  */
 module Lesson_1 {
-	
 }
